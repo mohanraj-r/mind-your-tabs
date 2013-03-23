@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Tabber",
-  "description": "This extension demonstrates the insanity of Mohan.",
+  "name": "Mind your tabs",
+  "description": "A chrome extension that helps you manage your tabs by visualizing them as mind maps.",
   "version": "1.0",
 
   "browser_action": {
